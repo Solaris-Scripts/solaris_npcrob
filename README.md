@@ -38,4 +38,4 @@ Optional: `cd_dispatch` for police alerts.
 - Randomized NPC behavior adds variety to gameplay.
 
 # Support
-For assistance or suggestions, please open a ticket on our [Discord server](https://discord.gg/SWqwezXD)
+For assistance or suggestions, please open a ticket on our [Discord server](https://discord.gg/Z2rtC6NMKu)
