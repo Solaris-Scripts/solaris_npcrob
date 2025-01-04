@@ -6,13 +6,13 @@ A dynamic and engaging script that allows players to rob NPCs on your FiveM serv
  - Add the following line to your `server.cfg`:
   
 ```html
-ensure solaris_npcrob
+ensure solaris_npcrobbery
 ```
 - Restart your server or use the console commands:
 
 ```html
 refresh
-start solaris_npcrob
+start solaris_npcrobbery
 ```
 # Features
 - Players can target NPCs for robbery using the ox_target interface.
